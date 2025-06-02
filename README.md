@@ -4,7 +4,7 @@ Welcome! This repository contains a collection of my projects. Click on any proj
 
 ## Projects
 
-- [Project 1](https://github.com/JonathanL02/4610Fa24Group4/tree/main)  
+- [Relational Database for General Workings of Gym ](https://github.com/JonathanL02/4610Fa24Group4/tree/main)  
   _A brief description of what Project 1 does or is about._
 
 - [Project 2](./project2/)  
