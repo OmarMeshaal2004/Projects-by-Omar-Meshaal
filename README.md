@@ -10,5 +10,5 @@ Welcome! This repository contains a collection of my projects. Click on any proj
 - [Montgomery County Vehicle Crash Visualization (2015-2024)](https://github.com/OmarMeshaal2004/4610Fa24Group4-2.git)
   _Analyzed Montgomery County crash data (2015-2024) using Tableau, filtering extraneous values, correcting inconsistencies, and visualizing injury severity by vehicle ._
 
-- [Project 3](./project3/)  
+- [Project 3](https://github.com/OmarMeshaal2004/Furventory-AAHS-Digital-Inventory-System.git)  
   _A brief description of what Project 3 does or is about._
